@@ -5,7 +5,7 @@
 <div align="center">
   <h2 aling="center">📚 <strong>Stack</strong></h2>
 
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,rabbitmq,postgres,cloudflare,aws,js,ts,react,vite,nodejs,tailwind,prisma," />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,rabbitmq,postgres,cloudflare,aws,js,ts,react,vite,nodejs,tailwind,prisma" />
 </div>
 
 <br>

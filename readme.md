@@ -17,22 +17,3 @@
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
-
----
-
-### 📊 GitHub Stats
-
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=luizmps&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizmps&layout=donut&theme=dracula" alt="Linguagens Mais Usadas" />
-      </a>
-    </td>
-  </tr>
-</table>

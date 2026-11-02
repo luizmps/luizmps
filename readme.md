@@ -1,6 +1,6 @@
 # Ola, Prazer Luiz! 👋👨🏻‍💻
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=710088&width=435&lines=Desenvolvedor+.Net+%7C+Fiap+;Engenheiro+de+Sotware+%7C+Fiap)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=003CC3&width=435&lines=Engenheiro+.NET+%7C+BTG)](https://git.io/typing-svg)
 
 <div align="center">
   <h2 aling="center">📚 <strong>Stack</strong></h2>
